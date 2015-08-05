@@ -1,0 +1,13 @@
+ingresar a la pagina
+
+https://activosfijos-maxpaz.c9.io
+
+para ingresar PSQL
+
+sudo service postgresql start
+
+sudo sudo -u postgres psql
+
+para cambiar el pasword de postgres
+
+ALTER USER postgres PASSWORD 'postgres';
